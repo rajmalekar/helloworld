@@ -1,2 +1,2 @@
 # helloworld
-This is the public repository to learn basics of git
+This is the public repository to learn basics of git with one branch.
