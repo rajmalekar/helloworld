@@ -3,3 +3,5 @@ i am hungry
 i am thirsty agit s well.git 
 
 adding some changes in feture branch.
+
+adding changes to master i dont want those in feature.
